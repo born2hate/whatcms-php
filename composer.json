@@ -1,5 +1,5 @@
 {
-    "name": "whatcms/whatcms-php",
+    "name": "whatcms/whatcms-php-born",
     "description": "A simple PHP wrapper for WhatCMS API calls",
     "homepage": "https://whatcms.org/",
     "type": "library",
